@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @llsong98
-- 👀 I’m interested in hyperspectral classification
+- 👀 I’m interested in hyperspectral image
